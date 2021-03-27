@@ -8,21 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jul 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://tdelabarra.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Trabajos personales</title>
+      <title>Trabajos Personales</title>
       <link>https://tdelabarra.github.io/docs/trabajos-personales/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://tdelabarra.github.io/docs/trabajos-personales/</guid>
-      <description>Trabajos realizados previamente al semstre 1/2021</description>
-    </item>
-    
-    <item>
-      <title>EncargoSillas</title>
-      <link>https://tdelabarra.github.io/docs/sillas/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://tdelabarra.github.io/docs/sillas/</guid>
-      <description>.</description>
+      <description>Trabajos producidos previos a este semestre</description>
     </item>
     
     <item>
@@ -32,6 +23,33 @@
       
       <guid>https://tdelabarra.github.io/docs/presentaciones-libros/</guid>
       <description>PDFs de las presentaciones de libros durante el semestre en Taller de Productos</description>
+    </item>
+    
+    <item>
+      <title>Encargo Sillas</title>
+      <link>https://tdelabarra.github.io/docs/sillas/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tdelabarra.github.io/docs/sillas/</guid>
+      <description>Primer Encargo, escoger dos sillas y explicarlas desde su inicio.</description>
+    </item>
+    
+    <item>
+      <title>Modelación de Sillas</title>
+      <link>https://tdelabarra.github.io/docs/modelaci%C3%B3n-de-sillas/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tdelabarra.github.io/docs/modelaci%C3%B3n-de-sillas/</guid>
+      <description>Segundo Encargo, de las sillas ya escogidas se crea unos modelos.</description>
+    </item>
+    
+    <item>
+      <title>Trabajo Grupal</title>
+      <link>https://tdelabarra.github.io/docs/trabajo-grupal/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tdelabarra.github.io/docs/trabajo-grupal/</guid>
+      <description>Primer Trabajo grupal de Taller de Productos</description>
     </item>
     
     <item>
