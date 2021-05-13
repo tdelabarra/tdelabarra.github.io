@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jul 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://tdelabarra.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Trabajos Personales</title>
-      <link>https://tdelabarra.github.io/docs/trabajos-personales/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://tdelabarra.github.io/docs/trabajos-personales/</guid>
-      <description>Trabajos producidos previos a este semestre</description>
-    </item>
-    
-    <item>
       <title>Presentaciones Libros</title>
       <link>https://tdelabarra.github.io/docs/presentaciones-libros/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -26,29 +17,38 @@
     </item>
     
     <item>
-      <title>Encargo Sillas</title>
-      <link>https://tdelabarra.github.io/docs/sillas/</link>
+      <title>Post 1.0</title>
+      <link>https://tdelabarra.github.io/docs/post-1.0/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://tdelabarra.github.io/docs/sillas/</guid>
+      <guid>https://tdelabarra.github.io/docs/post-1.0/</guid>
+      <description>Trabajos producidos previos a este semestre</description>
+    </item>
+    
+    <item>
+      <title>Post 1.1</title>
+      <link>https://tdelabarra.github.io/docs/post-1.1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tdelabarra.github.io/docs/post-1.1/</guid>
       <description>Primer Encargo, escoger dos sillas y explicarlas desde su inicio.</description>
     </item>
     
     <item>
-      <title>Modelación de Sillas</title>
-      <link>https://tdelabarra.github.io/docs/modelaci%C3%B3n-de-sillas/</link>
+      <title>Post 1.2</title>
+      <link>https://tdelabarra.github.io/docs/post-1.2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://tdelabarra.github.io/docs/modelaci%C3%B3n-de-sillas/</guid>
+      <guid>https://tdelabarra.github.io/docs/post-1.2/</guid>
       <description>Segundo Encargo, de las sillas ya escogidas se crea unos modelos.</description>
     </item>
     
     <item>
-      <title>Trabajo Grupal</title>
-      <link>https://tdelabarra.github.io/docs/trabajo-grupal/</link>
+      <title>Post 1.3</title>
+      <link>https://tdelabarra.github.io/docs/post-1.3/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://tdelabarra.github.io/docs/trabajo-grupal/</guid>
+      <guid>https://tdelabarra.github.io/docs/post-1.3/</guid>
       <description>Primer Trabajo grupal de Taller de Productos</description>
     </item>
     
@@ -59,6 +59,15 @@
       
       <guid>https://tdelabarra.github.io/docs/2.0/</guid>
       <description>Entrevsita a César Paez</description>
+    </item>
+    
+    <item>
+      <title>Post 2.1</title>
+      <link>https://tdelabarra.github.io/docs/2.1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tdelabarra.github.io/docs/2.1/</guid>
+      <description>Introducción a Fotogrametría</description>
     </item>
     
     <item>
@@ -77,6 +86,15 @@
       
       <guid>https://tdelabarra.github.io/docs/2.3/</guid>
       <description>Una presentación de un molde fabricado por uno y su uso en a comida</description>
+    </item>
+    
+    <item>
+      <title>Post 2.4</title>
+      <link>https://tdelabarra.github.io/docs/2.4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tdelabarra.github.io/docs/2.4/</guid>
+      <description>Primer Avanze segundo trabajo grupal</description>
     </item>
     
     <item>
